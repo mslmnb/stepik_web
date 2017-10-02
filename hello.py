@@ -1,6 +1,6 @@
-def app(env, start_response):
+def app(environ, start_response):
     data = environ['QUERY_STRING']
-    d = '/n'.join(str(data).split("&"))
+    d = '\n'.join(str(data).split("&"))
 
     status = '200 OK'
     response_headers = [
