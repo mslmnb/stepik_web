@@ -1,0 +1,122 @@
+[2017-10-07 15:53:25 +0000] [32] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 15:53:25 +0000] [32] [INFO] Listening at: http://0.0.0.0:8000 (32)
+[2017-10-07 15:53:25 +0000] [32] [INFO] Using worker: sync
+[2017-10-07 15:53:25 +0000] [35] [INFO] Booting worker with pid: 35
+[2017-10-07 15:58:17 +0000] [79] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 15:58:17 +0000] [79] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 15:58:17 +0000] [79] [ERROR] Retrying in 1 second.
+[2017-10-07 15:58:18 +0000] [79] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 15:58:18 +0000] [79] [ERROR] Retrying in 1 second.
+[2017-10-07 15:58:19 +0000] [79] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 15:58:19 +0000] [79] [ERROR] Retrying in 1 second.
+[2017-10-07 15:58:20 +0000] [79] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 15:58:20 +0000] [79] [ERROR] Retrying in 1 second.
+[2017-10-07 15:58:21 +0000] [79] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 15:58:21 +0000] [79] [ERROR] Retrying in 1 second.
+[2017-10-07 15:58:22 +0000] [79] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2017-10-07 16:12:20 +0000] [163] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 16:12:20 +0000] [163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:12:20 +0000] [163] [ERROR] Retrying in 1 second.
+[2017-10-07 16:12:21 +0000] [163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:12:21 +0000] [163] [ERROR] Retrying in 1 second.
+[2017-10-07 16:12:22 +0000] [163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:12:22 +0000] [163] [ERROR] Retrying in 1 second.
+[2017-10-07 16:12:23 +0000] [163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:12:23 +0000] [163] [ERROR] Retrying in 1 second.
+[2017-10-07 16:12:24 +0000] [163] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:12:24 +0000] [163] [ERROR] Retrying in 1 second.
+[2017-10-07 16:12:25 +0000] [163] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2017-10-07 16:37:29 +0000] [185] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 16:37:29 +0000] [185] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:37:29 +0000] [185] [ERROR] Retrying in 1 second.
+[2017-10-07 16:37:30 +0000] [185] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:37:30 +0000] [185] [ERROR] Retrying in 1 second.
+[2017-10-07 16:37:31 +0000] [185] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:37:31 +0000] [185] [ERROR] Retrying in 1 second.
+[2017-10-07 16:37:32 +0000] [185] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:37:32 +0000] [185] [ERROR] Retrying in 1 second.
+[2017-10-07 16:37:33 +0000] [185] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:37:33 +0000] [185] [ERROR] Retrying in 1 second.
+[2017-10-07 16:37:34 +0000] [185] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2017-10-07 16:40:55 +0000] [191] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 16:40:55 +0000] [191] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:40:55 +0000] [191] [ERROR] Retrying in 1 second.
+[2017-10-07 16:40:56 +0000] [191] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:40:56 +0000] [191] [ERROR] Retrying in 1 second.
+[2017-10-07 16:40:57 +0000] [191] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:40:57 +0000] [191] [ERROR] Retrying in 1 second.
+[2017-10-07 16:40:58 +0000] [191] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:40:58 +0000] [191] [ERROR] Retrying in 1 second.
+[2017-10-07 16:40:59 +0000] [191] [ERROR] Connection in use: ('0.0.0.0', 8000)
+[2017-10-07 16:40:59 +0000] [191] [ERROR] Retrying in 1 second.
+[2017-10-07 16:41:00 +0000] [191] [ERROR] Can't connect to ('0.0.0.0', 8000)
+[2017-10-07 17:58:51 +0000] [65] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 17:58:51 +0000] [65] [INFO] Listening at: http://0.0.0.0:8000 (65)
+[2017-10-07 17:58:51 +0000] [65] [INFO] Using worker: sync
+[2017-10-07 17:58:51 +0000] [68] [INFO] Booting worker with pid: 68
+[2017-10-07 17:59:40 +0000] [65] [INFO] Handling signal: int
+[2017-10-07 17:59:40 +0000] [68] [INFO] Worker exiting (pid: 68)
+[2017-10-07 17:59:40 +0000] [65] [INFO] Shutting down: Master
+[2017-10-07 18:00:22 +0000] [110] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:00:22 +0000] [110] [INFO] Listening at: http://0.0.0.0:8000 (110)
+[2017-10-07 18:00:22 +0000] [110] [INFO] Using worker: sync
+[2017-10-07 18:00:22 +0000] [113] [INFO] Booting worker with pid: 113
+[2017-10-07 18:01:09 +0000] [110] [INFO] Handling signal: int
+[2017-10-07 18:01:09 +0000] [113] [INFO] Worker exiting (pid: 113)
+[2017-10-07 18:01:09 +0000] [110] [INFO] Shutting down: Master
+[2017-10-07 18:04:14 +0000] [157] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:04:14 +0000] [157] [INFO] Listening at: http://0.0.0.0:8000 (157)
+[2017-10-07 18:04:14 +0000] [157] [INFO] Using worker: sync
+[2017-10-07 18:04:14 +0000] [160] [INFO] Booting worker with pid: 160
+[2017-10-07 18:04:40 +0000] [157] [INFO] Handling signal: int
+[2017-10-07 18:04:40 +0000] [160] [INFO] Worker exiting (pid: 160)
+[2017-10-07 18:04:40 +0000] [157] [INFO] Shutting down: Master
+[2017-10-07 18:05:50 +0000] [202] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:05:50 +0000] [202] [INFO] Listening at: http://0.0.0.0:8000 (202)
+[2017-10-07 18:05:50 +0000] [202] [INFO] Using worker: sync
+[2017-10-07 18:05:50 +0000] [205] [INFO] Booting worker with pid: 205
+[2017-10-07 18:06:27 +0000] [202] [INFO] Handling signal: int
+[2017-10-07 18:06:27 +0000] [205] [INFO] Worker exiting (pid: 205)
+[2017-10-07 18:06:28 +0000] [202] [INFO] Shutting down: Master
+[2017-10-07 18:06:43 +0000] [247] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:06:43 +0000] [247] [INFO] Listening at: http://0.0.0.0:8000 (247)
+[2017-10-07 18:06:43 +0000] [247] [INFO] Using worker: sync
+[2017-10-07 18:06:43 +0000] [250] [INFO] Booting worker with pid: 250
+[2017-10-07 18:06:59 +0000] [247] [INFO] Handling signal: int
+[2017-10-07 18:06:59 +0000] [250] [INFO] Worker exiting (pid: 250)
+[2017-10-07 18:06:59 +0000] [247] [INFO] Shutting down: Master
+[2017-10-07 18:07:34 +0000] [292] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:07:34 +0000] [292] [INFO] Listening at: http://0.0.0.0:8000 (292)
+[2017-10-07 18:07:34 +0000] [292] [INFO] Using worker: sync
+[2017-10-07 18:07:34 +0000] [295] [INFO] Booting worker with pid: 295
+[2017-10-07 18:07:55 +0000] [292] [INFO] Handling signal: int
+[2017-10-07 18:07:55 +0000] [295] [INFO] Worker exiting (pid: 295)
+[2017-10-07 18:07:55 +0000] [292] [INFO] Shutting down: Master
+[2017-10-07 18:08:05 +0000] [337] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:08:05 +0000] [337] [INFO] Listening at: http://0.0.0.0:8000 (337)
+[2017-10-07 18:08:05 +0000] [337] [INFO] Using worker: sync
+[2017-10-07 18:08:05 +0000] [340] [INFO] Booting worker with pid: 340
+[2017-10-07 18:08:27 +0000] [337] [INFO] Handling signal: int
+[2017-10-07 18:08:27 +0000] [340] [INFO] Worker exiting (pid: 340)
+[2017-10-07 18:08:27 +0000] [337] [INFO] Shutting down: Master
+[2017-10-07 18:08:43 +0000] [382] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:08:43 +0000] [382] [INFO] Listening at: http://0.0.0.0:8000 (382)
+[2017-10-07 18:08:43 +0000] [382] [INFO] Using worker: sync
+[2017-10-07 18:08:43 +0000] [385] [INFO] Booting worker with pid: 385
+[2017-10-07 18:08:55 +0000] [382] [INFO] Handling signal: int
+[2017-10-07 18:08:55 +0000] [385] [INFO] Worker exiting (pid: 385)
+[2017-10-07 18:08:55 +0000] [382] [INFO] Shutting down: Master
+[2017-10-07 18:09:06 +0000] [427] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:09:06 +0000] [427] [INFO] Listening at: http://0.0.0.0:8000 (427)
+[2017-10-07 18:09:06 +0000] [427] [INFO] Using worker: sync
+[2017-10-07 18:09:06 +0000] [430] [INFO] Booting worker with pid: 430
+[2017-10-07 18:09:16 +0000] [427] [INFO] Handling signal: int
+[2017-10-07 18:09:16 +0000] [430] [INFO] Worker exiting (pid: 430)
+[2017-10-07 18:09:17 +0000] [427] [INFO] Shutting down: Master
+[2017-10-07 18:09:28 +0000] [472] [INFO] Starting gunicorn 19.6.0
+[2017-10-07 18:09:28 +0000] [472] [INFO] Listening at: http://0.0.0.0:8000 (472)
+[2017-10-07 18:09:28 +0000] [472] [INFO] Using worker: sync
+[2017-10-07 18:09:28 +0000] [475] [INFO] Booting worker with pid: 475
+[2017-10-07 18:09:56 +0000] [472] [INFO] Handling signal: int
+[2017-10-07 18:09:56 +0000] [475] [INFO] Worker exiting (pid: 475)
+[2017-10-07 18:09:56 +0000] [472] [INFO] Shutting down: Master
